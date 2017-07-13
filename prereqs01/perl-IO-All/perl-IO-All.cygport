@@ -1,0 +1,11 @@
+CPAN_AUTHOR=ingy
+inherit perl
+
+NAME="perl-IO-All"
+VERSION=0.86
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Combines all of the best Perl IO modules"
+DESCRIPTION="Perl module IO::All"
+
+ARCH=noarch

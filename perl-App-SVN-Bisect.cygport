@@ -1,0 +1,11 @@
+CPAN_AUTHOR=infinoid
+inherit perl
+
+NAME="perl-App-SVN-Bisect"
+VERSION=1.1
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Tool to perform binary searches on SVN checkouts"
+DESCRIPTION="Perl module App::SVN::Bisect"
+
+ARCH=noarch
