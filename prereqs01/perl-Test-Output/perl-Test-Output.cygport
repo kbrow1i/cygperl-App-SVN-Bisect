@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-Test-Output"
 VERSION=1.031
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Perl module Test::Output"
 DESCRIPTION="Perl module Test::Output"

@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-IO-All"
 VERSION=0.86
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Combines all of the best Perl IO modules"
 DESCRIPTION="Perl module IO::All"

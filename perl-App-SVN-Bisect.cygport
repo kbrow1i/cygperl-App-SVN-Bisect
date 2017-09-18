@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-App-SVN-Bisect"
 VERSION=1.1
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Tool to perform binary searches on SVN checkouts"
 DESCRIPTION="Perl module App::SVN::Bisect"

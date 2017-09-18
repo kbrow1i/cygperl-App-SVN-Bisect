@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-YAML-Syck"
 VERSION=1.30
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Perl module YAML::Syck"
 DESCRIPTION="Perl module YAML::Syck"
